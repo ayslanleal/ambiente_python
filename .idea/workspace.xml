@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44548d6c-5e2b-4e33-998f-c1602a9ded9e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="44548d6c-5e2b-4e33-998f-c1602a9ded9e" name="Changes" comment="'first commit'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,8 +56,16 @@
       <workItem from="1642723226384" duration="595000" />
       <workItem from="1642784961088" duration="2238000" />
       <workItem from="1642811726483" duration="1083000" />
-      <workItem from="1642867082379" duration="896000" />
+      <workItem from="1642867082379" duration="1194000" />
     </task>
+    <task id="LOCAL-00001" summary="'first commit'">
+      <created>1642868140927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642868140927</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +82,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'first commit'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'first commit'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
