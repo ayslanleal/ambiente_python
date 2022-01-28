@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44548d6c-5e2b-4e33-998f-c1602a9ded9e" name="Changes" comment="'first commit'" />
+    <list default="true" id="44548d6c-5e2b-4e33-998f-c1602a9ded9e" name="Changes" comment="'first commit'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/envirnoment_virtual/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/envirnoment_virtual/pyproject.toml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +60,8 @@
       <workItem from="1642723226384" duration="595000" />
       <workItem from="1642784961088" duration="2238000" />
       <workItem from="1642811726483" duration="1083000" />
-      <workItem from="1642867082379" duration="1194000" />
+      <workItem from="1642867082379" duration="1888000" />
+      <workItem from="1643381254195" duration="873000" />
     </task>
     <task id="LOCAL-00001" summary="'first commit'">
       <created>1642868140927</created>
@@ -65,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642868140927</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="'first commit'">
+      <created>1642868369687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642868369687</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
