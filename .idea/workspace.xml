@@ -127,7 +127,7 @@
       <workItem from="1643381254195" duration="2542000" />
       <workItem from="1643556026132" duration="3979000" />
       <workItem from="1643630330002" duration="9094000" />
-      <workItem from="1643651208078" duration="5880000" />
+      <workItem from="1643651208078" duration="6089000" />
     </task>
     <task id="LOCAL-00001" summary="'first commit'">
       <created>1642868140927</created>
@@ -248,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643656609996</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add workflow github actions">
+      <created>1643657379367</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1643657379367</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add workflow github actions">
+      <created>1643657498246</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1643657498246</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
