@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44548d6c-5e2b-4e33-998f-c1602a9ded9e" name="Changes" comment="add workflow github actions">
-      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/envirnoment_virtual/poetry.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/envirnoment_virtual/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,7 @@
       <workItem from="1643381254195" duration="2542000" />
       <workItem from="1643556026132" duration="3979000" />
       <workItem from="1643630330002" duration="9094000" />
-      <workItem from="1643651208078" duration="5009000" />
+      <workItem from="1643651208078" duration="5880000" />
     </task>
     <task id="LOCAL-00001" summary="'first commit'">
       <created>1642868140927</created>
@@ -235,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643656125821</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add workflow github actions">
+      <created>1643656349973</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1643656349973</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add workflow github actions">
+      <created>1643656609996</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1643656609996</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
