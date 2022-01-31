@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44548d6c-5e2b-4e33-998f-c1602a9ded9e" name="Changes" comment="add workflow github actions">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ambiente_python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pyup.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/README.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/dist/envirnoment_virtual-0.1.0-py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/dist/envirnoment_virtual-0.1.0.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/envirnoment_virtual/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/poetry.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/envirnoment_virtual/tests/test_envirnoment_virtual.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +40,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_envirnoment_virtual.test_version">
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ambiente_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_envirnoment_virtual.test_version" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for envirnoment_virtual.tests.test_envirnoment_virtual.test_version" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="ambiente_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,13 +77,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_envirnoment_virtual.test_version&quot;" />
+      <option name="_new_target" value="&quot;envirnoment_virtual.tests.test_envirnoment_virtual.test_version&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_envirnoment_virtual.test_version" />
+        <item itemvalue="Python tests.Python tests for envirnoment_virtual.tests.test_envirnoment_virtual.test_version" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +101,8 @@
       <workItem from="1642867082379" duration="1888000" />
       <workItem from="1643381254195" duration="2542000" />
       <workItem from="1643556026132" duration="3979000" />
-      <workItem from="1643630330002" duration="6154000" />
+      <workItem from="1643630330002" duration="9094000" />
+      <workItem from="1643651208078" duration="380000" />
     </task>
     <task id="LOCAL-00001" summary="'first commit'">
       <created>1642868140927</created>
@@ -139,7 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643637482585</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add workflow github actions">
+      <created>1643637721565</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1643637721565</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add workflow github actions">
+      <created>1643637954059</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1643637954059</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,17 +198,6 @@
     <MESSAGE value="add README.md" />
     <MESSAGE value="add workflow github actions" />
     <option name="LAST_COMMIT_MESSAGE" value="add workflow github actions" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ambiente_python$.coverage" NAME=" Coverage Results" MODIFIED="1643631111644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/envirnoment_virtual/tests" />
