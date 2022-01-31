@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44548d6c-5e2b-4e33-998f-c1602a9ded9e" name="Changes" comment="add README.md">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
+    <list default="true" id="44548d6c-5e2b-4e33-998f-c1602a9ded9e" name="Changes" comment="add workflow github actions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +81,7 @@
       <workItem from="1642867082379" duration="1888000" />
       <workItem from="1643381254195" duration="2542000" />
       <workItem from="1643556026132" duration="3979000" />
-      <workItem from="1643630330002" duration="4574000" />
+      <workItem from="1643630330002" duration="5689000" />
     </task>
     <task id="LOCAL-00001" summary="'first commit'">
       <created>1642868140927</created>
@@ -119,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643558723745</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add workflow github actions">
+      <created>1643635998699</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643635998699</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +147,8 @@
     <MESSAGE value="'first commit'" />
     <MESSAGE value="'add workspace'" />
     <MESSAGE value="add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
+    <MESSAGE value="add workflow github actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="add workflow github actions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

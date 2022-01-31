@@ -1,4 +1,8 @@
 name: CI
+defaults:
+  run:
+    shell: bash
+    working-directory: ./envirnoment_virtual
 on:
   push:
     branches: ['master']
