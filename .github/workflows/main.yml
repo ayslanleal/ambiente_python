@@ -31,7 +31,7 @@ jobs:
         run: poetry install
 
       - name: Unit test
-        run: poetry run pytest
+        run: poetry run pytest --cov
 
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v2
