@@ -34,7 +34,7 @@ jobs:
         run: poetry run pytest
 
       - name: Install coverage tet
-        run: poetry install codecov
+        run: poetry add codecov
 
       - name: Codecove
         run: codecov
