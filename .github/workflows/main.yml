@@ -33,4 +33,10 @@ jobs:
       - name: Unit test
         run: poetry run pytest
 
+      - name: Install coverage tet
+        run: poetry install codecov
+
+      - name: Codecove
+        run: codecov
+
 
